@@ -1,0 +1,17 @@
+body{
+    padding: 20px;
+    background-color: #222;
+    color: aliceblue;
+}
+
+button{
+    margin-right:20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.pokemondiv{
+    display: block;
+    columns: 5;
+    justify-content: center;
+}
